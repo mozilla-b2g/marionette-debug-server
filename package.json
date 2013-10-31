@@ -1,7 +1,11 @@
 {
   "name": "marionette-debug-server",
   "description": "A HTTP server to receive log(screenshot) data form CI server.",
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "author": {
+    "name": "Evan Tseng",
+    "email": "evanxd@mozilla.com"
+  },
   "main": "index.js",
   "scripts": {
   	"test": "make"
